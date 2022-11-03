@@ -4,7 +4,35 @@
 The purpose of this analysis is to more completely understand the Citi Bike data in New York City to better inform the decision to open a similar business in Des Moines, IA.
 
 ## Results 
-The results of this analysis can be viewed by clicking the [link to this dashboard](https://public.tableau.com/views/CitiBikeData_16631967377140/CitiBikeData?:language=en-US&:display_count=n&:origin=viz_share_link). While clicking through the worksheets of this story, the user will also notice captions explaining the data in each sheet. 
+The results of this analysis can be viewed by clicking the [link to this dashboard](https://public.tableau.com/views/CitiBikeData_16631967377140/CitiBikeData?:language=en-US&:display_count=n&:origin=viz_share_link) or utilizing the screenshots below. While clicking through the worksheets of this story, the user will also notice captions explaining the data in each sheet. 
+
+**Trips by Weekday**
+
+![Trips_by_Weekday](Images/Trips_by_Weekday.png)
+
+**Trips by Weekday by Gender**
+
+![Trips_by_Weekday_by_Gender](Images/Trips_by_Weekday_by_Gender.png)
+
+**User Trips by Gender**
+
+![User_Trips_by_Gender](Images/User_Trips_by_Gender.png)
+
+**Check Out Time**
+
+![Check_Out_Time](Images/Check_Out_Time.png)
+
+**Check Out Time by Gender**
+
+![Check_Out_Time_by_Gender](Images/Check_Out_Time_by_Gender.png)
+
+**Top Starting Locations**
+
+![Top_Starting_Locations](Images/Top_Starting_Locations.png)
+
+**Top Ending Location**
+
+![Top_Ending_Locations](Images/Top_Ending_Locations.png)
 
 ## Summary
 Based on this analysis, the following findings may be helpful when thinking about mapping this business to Des Moines, IA: 
