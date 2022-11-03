@@ -16,7 +16,7 @@ The results of this analysis can be viewed by clicking the [link to this dashboa
 
 **User Trips by Gender**
 
-![User_Trips_by_Gender](Images/User_Trips_by_Gender.png)
+![Use_Trips_by_Gender](Images/Use_Trips_by_Gender.png)
 
 **Check Out Time**
 
